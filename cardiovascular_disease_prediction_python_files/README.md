@@ -1,9 +1,5 @@
 # Cardiovascular Disease Prediction — Python scripts
 
-This folder contains the Python version of `Code_cardiovascular_disease_prediction.ipynb`.
-
-Each `cardio_*.py` file corresponds to one non-empty code cell from the notebook. Empty cells and Markdown-only cells were not exported. 
-
 ## How to run
 
 Place the dataset here:
