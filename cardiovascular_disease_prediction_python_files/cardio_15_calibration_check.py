@@ -1,6 +1,4 @@
 # Generated from Code_cardiovascular_disease_prediction.ipynb
-# One file corresponds to one non-empty code cell from the notebook.
-# Run the files in numeric order, or use run_all.py.
 
 rf_proba = models["Random forest"].best_estimator_.predict_proba(X_test)[:, 1]
 ridge_proba = models["Ridge"].best_estimator_.predict_proba(X_test)[:, 1]
