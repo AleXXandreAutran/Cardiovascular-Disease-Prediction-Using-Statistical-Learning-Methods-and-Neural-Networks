@@ -1,7 +1,4 @@
 """Run the cardiovascular disease prediction workflow end to end.
-
-This script executes the exported notebook cells in order within one shared
-namespace, preserving the behavior of the original Jupyter notebook.
 """
 
 from pathlib import Path
