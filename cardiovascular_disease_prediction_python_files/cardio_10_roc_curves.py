@@ -1,5 +1,3 @@
-# Generated from Code_cardiovascular_disease_prediction.ipynb
-# One file corresponds to one non-empty code cell from the notebook.
 # Run the files in numeric order, or use run_all.py.
 
 plt.figure(figsize=(7.2, 5.5))
