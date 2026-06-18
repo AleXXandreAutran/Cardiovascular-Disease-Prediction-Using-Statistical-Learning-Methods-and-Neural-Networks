@@ -1,5 +1,3 @@
-# Generated from Code_cardiovascular_disease_prediction.ipynb
-# One file corresponds to one non-empty code cell from the notebook.
 # Run the files in numeric order, or use run_all.py.
 
 def make_grid_search(estimator, param_grid, name: str) -> GridSearchCV:
