@@ -34,7 +34,3 @@ The scripts save figures to the `figures/` directory.
 - `cardio_14_permutation_importance.py`: random forest permutation importance.
 - `cardio_15_calibration_check.py`: Brier score comparison.
 - `run_all.py`: convenience runner that executes all exported cells in order.
-
-## Notes
-
-The files are designed to preserve notebook-style execution: later files depend on variables created by earlier files. For that reason, use `run_all.py` or run the scripts in numeric order in a shared Python session.
